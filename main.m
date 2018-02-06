@@ -18,7 +18,7 @@ minlength = 2;
 screen_pixel_width = 1440;
 screen_cm_width = 50;
 participant_distance = 85;
-v_threshold = 1; % as soon as I use deg/ms
+v_threshold = 1; % As soon as I use deg/ms
 t_threshold = 5; 
 
 % run custom function
